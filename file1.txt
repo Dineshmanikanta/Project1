@@ -1,0 +1,2 @@
+Entred into git bash
+Welcome to Git
